@@ -1,0 +1,7 @@
+{
+  "name": "BDD-ATR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
